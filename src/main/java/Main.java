@@ -5,7 +5,7 @@ public class Main {
         Reader r = new Reader("Calculator");
         r.setVisible(true);
         r.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        r.setSize(180,180);
+        r.setSize(270,210);
         r.setResizable(false);
         r.setLocationRelativeTo(null);
     }
